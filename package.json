@@ -1,11 +1,16 @@
 {
-	"name": "reset-title",
-	"version": "0.0.4",
-	"description": "reset html title",
-	"main": "index.js",
-	"scripts": {
-
-	},
-	"author": "ch51ff",
-	"license": "ISC"
+  "name": "reset-title",
+  "version": "0.0.5",
+  "description": "reset html title",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src -d lib"
+  },
+  "author": "ch51ff",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-latest": "^6.24.0",
+    "babel-preset-stage-3": "^6.22.0"
+  }
 }
