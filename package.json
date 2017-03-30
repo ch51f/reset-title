@@ -1,6 +1,6 @@
 {
 	"name": "reset-title",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "reset html title",
 	"main": "index.js",
 	"scripts": {

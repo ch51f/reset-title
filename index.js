@@ -10,7 +10,7 @@ const title = function (title) {
 
 	if(browser.versions.ios) {
 		let iframe = document.createElement("iframe");
-		iframe.src="https://github.com/fluidicon.png";
+		iframe.src="http://res.fangstar.net/wxqy/img-bed/2016-11-29/583d22660912c.ico";
 		iframe.addEventListener("load", function() {
 			setTimeout(function() {
 				iframe.removeEventListener("load", function() {});
