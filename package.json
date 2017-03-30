@@ -1,0 +1,11 @@
+{
+	"name": "reset-title",
+	"version": "0.0.3",
+	"description": "reset html title",
+	"main": "index.js",
+	"scripts": {
+
+	},
+	"author": "ch51ff",
+	"license": "ISC"
+}
